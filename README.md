@@ -1,4 +1,4 @@
-# smmarket - сайт для арбитражной компании
+# smmarket - website for an arbitration company
 Theme - sociial marketing
 Technologies:
 - mobile first
